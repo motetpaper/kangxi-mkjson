@@ -1,0 +1,1354 @@
+[
+ {
+  "header": 1,
+  "units": "画"
+ },
+ {
+  "id": 1,
+  "radical": "一",
+  "strokes": 1,
+  "pinyin": "yī"
+ },
+ {
+  "id": 2,
+  "radical": "丨",
+  "strokes": 1,
+  "pinyin": "gǔn"
+ },
+ {
+  "id": 3,
+  "radical": "丶",
+  "strokes": 1,
+  "pinyin": "zhǔ"
+ },
+ {
+  "id": 4,
+  "radical": "丿",
+  "strokes": 1,
+  "pinyin": "piě"
+ },
+ {
+  "id": 5,
+  "radical": "乙",
+  "strokes": 1,
+  "pinyin": "yǐ"
+ },
+ {
+  "id": 6,
+  "radical": "亅",
+  "strokes": 1,
+  "pinyin": "jué"
+ },
+ {
+  "header": 2,
+  "units": "画"
+ },
+ {
+  "id": 7,
+  "radical": "二",
+  "strokes": 2,
+  "pinyin": "èr"
+ },
+ {
+  "id": 8,
+  "radical": "亠",
+  "strokes": 2,
+  "pinyin": "tóu"
+ },
+ {
+  "id": 9,
+  "radical": "人",
+  "strokes": 2,
+  "pinyin": "rén"
+ },
+ {
+  "id": 10,
+  "radical": "儿",
+  "strokes": 2,
+  "pinyin": "ér"
+ },
+ {
+  "id": 11,
+  "radical": "入",
+  "strokes": 2,
+  "pinyin": "rù"
+ },
+ {
+  "id": 12,
+  "radical": "八",
+  "strokes": 2,
+  "pinyin": "bā"
+ },
+ {
+  "id": 13,
+  "radical": "冂",
+  "strokes": 2,
+  "pinyin": "jiōng"
+ },
+ {
+  "id": 14,
+  "radical": "冖",
+  "strokes": 2,
+  "pinyin": "mì"
+ },
+ {
+  "id": 15,
+  "radical": "冫",
+  "strokes": 2,
+  "pinyin": "bīng"
+ },
+ {
+  "id": 16,
+  "radical": "几",
+  "strokes": 2,
+  "pinyin": "jī"
+ },
+ {
+  "id": 17,
+  "radical": "凵",
+  "strokes": 2,
+  "pinyin": "kǎn"
+ },
+ {
+  "id": 18,
+  "radical": "刀",
+  "strokes": 2,
+  "pinyin": "dāo"
+ },
+ {
+  "id": 19,
+  "radical": "力",
+  "strokes": 2,
+  "pinyin": "lì"
+ },
+ {
+  "id": 20,
+  "radical": "勹",
+  "strokes": 2,
+  "pinyin": "bāo"
+ },
+ {
+  "id": 21,
+  "radical": "匕",
+  "strokes": 2,
+  "pinyin": "bǐ"
+ },
+ {
+  "id": 22,
+  "radical": "匚",
+  "strokes": 2,
+  "pinyin": "fāng"
+ },
+ {
+  "id": 23,
+  "radical": "匸",
+  "strokes": 2,
+  "pinyin": "xǐ"
+ },
+ {
+  "id": 24,
+  "radical": "十",
+  "strokes": 2,
+  "pinyin": "shí"
+ },
+ {
+  "id": 25,
+  "radical": "卜",
+  "strokes": 2,
+  "pinyin": "bǔ"
+ },
+ {
+  "id": 26,
+  "radical": "卩",
+  "strokes": 2,
+  "pinyin": "jié"
+ },
+ {
+  "id": 27,
+  "radical": "厂",
+  "strokes": 2,
+  "pinyin": "hǎn"
+ },
+ {
+  "id": 28,
+  "radical": "厶",
+  "strokes": 2,
+  "pinyin": "sī"
+ },
+ {
+  "id": 29,
+  "radical": "又",
+  "strokes": 2,
+  "pinyin": "yòu"
+ },
+ {
+  "header": 3,
+  "units": "画"
+ },
+ {
+  "id": 30,
+  "radical": "口",
+  "strokes": 3,
+  "pinyin": "kǒu"
+ },
+ {
+  "id": 31,
+  "radical": "囗",
+  "strokes": 3,
+  "pinyin": "wéi"
+ },
+ {
+  "id": 32,
+  "radical": "土",
+  "strokes": 3,
+  "pinyin": "tǔ"
+ },
+ {
+  "id": 33,
+  "radical": "士",
+  "strokes": 3,
+  "pinyin": "shì"
+ },
+ {
+  "id": 34,
+  "radical": "夂",
+  "strokes": 3,
+  "pinyin": "zhǐ"
+ },
+ {
+  "id": 35,
+  "radical": "夊",
+  "strokes": 3,
+  "pinyin": "suī"
+ },
+ {
+  "id": 36,
+  "radical": "夕",
+  "strokes": 3,
+  "pinyin": "xī"
+ },
+ {
+  "id": 37,
+  "radical": "大",
+  "strokes": 3,
+  "pinyin": "dà"
+ },
+ {
+  "id": 38,
+  "radical": "女",
+  "strokes": 3,
+  "pinyin": "nǚ"
+ },
+ {
+  "id": 39,
+  "radical": "子",
+  "strokes": 3,
+  "pinyin": "zǐ"
+ },
+ {
+  "id": 40,
+  "radical": "宀",
+  "strokes": 3,
+  "pinyin": "mián"
+ },
+ {
+  "id": 41,
+  "radical": "寸",
+  "strokes": 3,
+  "pinyin": "cùn"
+ },
+ {
+  "id": 42,
+  "radical": "小",
+  "strokes": 3,
+  "pinyin": "xiǎo"
+ },
+ {
+  "id": 43,
+  "radical": "尢",
+  "strokes": 3,
+  "pinyin": "wāng"
+ },
+ {
+  "id": 44,
+  "radical": "尸",
+  "strokes": 3,
+  "pinyin": "shī"
+ },
+ {
+  "id": 45,
+  "radical": "屮",
+  "strokes": 3,
+  "pinyin": "chè"
+ },
+ {
+  "id": 46,
+  "radical": "山",
+  "strokes": 3,
+  "pinyin": "shān"
+ },
+ {
+  "id": 47,
+  "radical": "川",
+  "strokes": 3,
+  "pinyin": "chuān"
+ },
+ {
+  "id": 48,
+  "radical": "工",
+  "strokes": 3,
+  "pinyin": "gōng"
+ },
+ {
+  "id": 49,
+  "radical": "己",
+  "strokes": 3,
+  "pinyin": "jǐ"
+ },
+ {
+  "id": 50,
+  "radical": "巾",
+  "strokes": 3,
+  "pinyin": "jīn"
+ },
+ {
+  "id": 51,
+  "radical": "干",
+  "strokes": 3,
+  "pinyin": "gān"
+ },
+ {
+  "id": 52,
+  "radical": "幺",
+  "strokes": 3,
+  "pinyin": "yāo"
+ },
+ {
+  "id": 53,
+  "radical": "广",
+  "strokes": 3,
+  "pinyin": "yǎn"
+ },
+ {
+  "id": 54,
+  "radical": "廴",
+  "strokes": 3,
+  "pinyin": "yǐn"
+ },
+ {
+  "id": 55,
+  "radical": "廾",
+  "strokes": 3,
+  "pinyin": "gǒng"
+ },
+ {
+  "id": 56,
+  "radical": "弋",
+  "strokes": 3,
+  "pinyin": "yì"
+ },
+ {
+  "id": 57,
+  "radical": "弓",
+  "strokes": 3,
+  "pinyin": "gōng"
+ },
+ {
+  "id": 58,
+  "radical": "彐",
+  "strokes": 3,
+  "pinyin": "jì"
+ },
+ {
+  "id": 59,
+  "radical": "彡",
+  "strokes": 3,
+  "pinyin": "shān"
+ },
+ {
+  "id": 60,
+  "radical": "彳",
+  "strokes": 3,
+  "pinyin": "chì"
+ },
+ {
+  "header": 4,
+  "units": "画"
+ },
+ {
+  "id": 61,
+  "radical": "心",
+  "strokes": 4,
+  "pinyin": "xīn"
+ },
+ {
+  "id": 62,
+  "radical": "戈",
+  "strokes": 4,
+  "pinyin": "gē"
+ },
+ {
+  "id": 63,
+  "radical": "戶",
+  "strokes": 4,
+  "pinyin": "hù"
+ },
+ {
+  "id": 64,
+  "radical": "手",
+  "strokes": 4,
+  "pinyin": "shǒu"
+ },
+ {
+  "id": 65,
+  "radical": "支",
+  "strokes": 4,
+  "pinyin": "zhī"
+ },
+ {
+  "id": 66,
+  "radical": "攴",
+  "strokes": 4,
+  "pinyin": "pū"
+ },
+ {
+  "id": 67,
+  "radical": "文",
+  "strokes": 4,
+  "pinyin": "wén"
+ },
+ {
+  "id": 68,
+  "radical": "斗",
+  "strokes": 4,
+  "pinyin": "dǒu"
+ },
+ {
+  "id": 69,
+  "radical": "斤",
+  "strokes": 4,
+  "pinyin": "jīn"
+ },
+ {
+  "id": 70,
+  "radical": "方",
+  "strokes": 4,
+  "pinyin": "fāng"
+ },
+ {
+  "id": 71,
+  "radical": "无",
+  "strokes": 4,
+  "pinyin": "wú"
+ },
+ {
+  "id": 72,
+  "radical": "日",
+  "strokes": 4,
+  "pinyin": "rì"
+ },
+ {
+  "id": 73,
+  "radical": "曰",
+  "strokes": 4,
+  "pinyin": "yuē"
+ },
+ {
+  "id": 74,
+  "radical": "月",
+  "strokes": 4,
+  "pinyin": "yuè"
+ },
+ {
+  "id": 75,
+  "radical": "木",
+  "strokes": 4,
+  "pinyin": "mù"
+ },
+ {
+  "id": 76,
+  "radical": "欠",
+  "strokes": 4,
+  "pinyin": "qiàn"
+ },
+ {
+  "id": 77,
+  "radical": "止",
+  "strokes": 4,
+  "pinyin": "zhǐ"
+ },
+ {
+  "id": 78,
+  "radical": "歹",
+  "strokes": 4,
+  "pinyin": "dǎi"
+ },
+ {
+  "id": 79,
+  "radical": "殳",
+  "strokes": 4,
+  "pinyin": "shū"
+ },
+ {
+  "id": 80,
+  "radical": "毋",
+  "strokes": 4,
+  "pinyin": "wú"
+ },
+ {
+  "id": 81,
+  "radical": "比",
+  "strokes": 4,
+  "pinyin": "bǐ"
+ },
+ {
+  "id": 82,
+  "radical": "毛",
+  "strokes": 4,
+  "pinyin": "máo"
+ },
+ {
+  "id": 83,
+  "radical": "氏",
+  "strokes": 4,
+  "pinyin": "shì"
+ },
+ {
+  "id": 84,
+  "radical": "气",
+  "strokes": 4,
+  "pinyin": "qì"
+ },
+ {
+  "id": 85,
+  "radical": "水",
+  "strokes": 4,
+  "pinyin": "shuǐ"
+ },
+ {
+  "id": 86,
+  "radical": "火",
+  "strokes": 4,
+  "pinyin": "huǒ"
+ },
+ {
+  "id": 87,
+  "radical": "爪",
+  "strokes": 4,
+  "pinyin": "zhǎo"
+ },
+ {
+  "id": 88,
+  "radical": "父",
+  "strokes": 4,
+  "pinyin": "fù"
+ },
+ {
+  "id": 89,
+  "radical": "爻",
+  "strokes": 4,
+  "pinyin": "yáo"
+ },
+ {
+  "id": 90,
+  "radical": "爿",
+  "strokes": 4,
+  "pinyin": "qiáng"
+ },
+ {
+  "id": 91,
+  "radical": "片",
+  "strokes": 4,
+  "pinyin": "piàn"
+ },
+ {
+  "id": 92,
+  "radical": "牙",
+  "strokes": 4,
+  "pinyin": "yá"
+ },
+ {
+  "id": 93,
+  "radical": "牛",
+  "strokes": 4,
+  "pinyin": "niú"
+ },
+ {
+  "id": 94,
+  "radical": "犬",
+  "strokes": 4,
+  "pinyin": "quǎn"
+ },
+ {
+  "header": 5,
+  "units": "画"
+ },
+ {
+  "id": 95,
+  "radical": "玄",
+  "strokes": 5,
+  "pinyin": "xuán"
+ },
+ {
+  "id": 96,
+  "radical": "玉",
+  "strokes": 5,
+  "pinyin": "yù"
+ },
+ {
+  "id": 97,
+  "radical": "瓜",
+  "strokes": 5,
+  "pinyin": "guā"
+ },
+ {
+  "id": 98,
+  "radical": "瓦",
+  "strokes": 5,
+  "pinyin": "wǎ"
+ },
+ {
+  "id": 99,
+  "radical": "甘",
+  "strokes": 5,
+  "pinyin": "gān"
+ },
+ {
+  "id": 100,
+  "radical": "生",
+  "strokes": 5,
+  "pinyin": "shēng"
+ },
+ {
+  "id": 101,
+  "radical": "用",
+  "strokes": 5,
+  "pinyin": "yòng"
+ },
+ {
+  "id": 102,
+  "radical": "田",
+  "strokes": 5,
+  "pinyin": "tián"
+ },
+ {
+  "id": 103,
+  "radical": "疋",
+  "strokes": 5,
+  "pinyin": "pǐ"
+ },
+ {
+  "id": 104,
+  "radical": "疒",
+  "strokes": 5,
+  "pinyin": "nè"
+ },
+ {
+  "id": 105,
+  "radical": "癶",
+  "strokes": 5,
+  "pinyin": "bō"
+ },
+ {
+  "id": 106,
+  "radical": "白",
+  "strokes": 5,
+  "pinyin": "bái"
+ },
+ {
+  "id": 107,
+  "radical": "皮",
+  "strokes": 5,
+  "pinyin": "pí"
+ },
+ {
+  "id": 108,
+  "radical": "皿",
+  "strokes": 5,
+  "pinyin": "mǐn"
+ },
+ {
+  "id": 109,
+  "radical": "目",
+  "strokes": 5,
+  "pinyin": "mù"
+ },
+ {
+  "id": 110,
+  "radical": "矛",
+  "strokes": 5,
+  "pinyin": "máo"
+ },
+ {
+  "id": 111,
+  "radical": "矢",
+  "strokes": 5,
+  "pinyin": "shǐ"
+ },
+ {
+  "id": 112,
+  "radical": "石",
+  "strokes": 5,
+  "pinyin": "shí"
+ },
+ {
+  "id": 113,
+  "radical": "示",
+  "strokes": 5,
+  "pinyin": "shì"
+ },
+ {
+  "id": 114,
+  "radical": "禸",
+  "strokes": 5,
+  "pinyin": "róu"
+ },
+ {
+  "id": 115,
+  "radical": "禾",
+  "strokes": 5,
+  "pinyin": "hé"
+ },
+ {
+  "id": 116,
+  "radical": "穴",
+  "strokes": 5,
+  "pinyin": "xué"
+ },
+ {
+  "id": 117,
+  "radical": "立",
+  "strokes": 5,
+  "pinyin": "lì"
+ },
+ {
+  "header": 6,
+  "units": "画"
+ },
+ {
+  "id": 118,
+  "radical": "竹",
+  "strokes": 6,
+  "pinyin": "zhú"
+ },
+ {
+  "id": 119,
+  "radical": "米",
+  "strokes": 6,
+  "pinyin": "mǐ"
+ },
+ {
+  "id": 120,
+  "radical": "糸",
+  "strokes": 6,
+  "pinyin": "mì"
+ },
+ {
+  "id": 121,
+  "radical": "缶",
+  "strokes": 6,
+  "pinyin": "fǒu"
+ },
+ {
+  "id": 122,
+  "radical": "网",
+  "strokes": 6,
+  "pinyin": "wǎng"
+ },
+ {
+  "id": 123,
+  "radical": "羊",
+  "strokes": 6,
+  "pinyin": "yáng"
+ },
+ {
+  "id": 124,
+  "radical": "羽",
+  "strokes": 6,
+  "pinyin": "yǔ"
+ },
+ {
+  "id": 125,
+  "radical": "老",
+  "strokes": 6,
+  "pinyin": "lǎo"
+ },
+ {
+  "id": 126,
+  "radical": "而",
+  "strokes": 6,
+  "pinyin": "ér"
+ },
+ {
+  "id": 127,
+  "radical": "耒",
+  "strokes": 6,
+  "pinyin": "lěi"
+ },
+ {
+  "id": 128,
+  "radical": "耳",
+  "strokes": 6,
+  "pinyin": "ěr"
+ },
+ {
+  "id": 129,
+  "radical": "聿",
+  "strokes": 6,
+  "pinyin": "yù"
+ },
+ {
+  "id": 130,
+  "radical": "肉",
+  "strokes": 6,
+  "pinyin": "ròu"
+ },
+ {
+  "id": 131,
+  "radical": "臣",
+  "strokes": 6,
+  "pinyin": "chén"
+ },
+ {
+  "id": 132,
+  "radical": "自",
+  "strokes": 6,
+  "pinyin": "zì"
+ },
+ {
+  "id": 133,
+  "radical": "至",
+  "strokes": 6,
+  "pinyin": "zhì"
+ },
+ {
+  "id": 134,
+  "radical": "臼",
+  "strokes": 6,
+  "pinyin": "jiù"
+ },
+ {
+  "id": 135,
+  "radical": "舌",
+  "strokes": 6,
+  "pinyin": "shé"
+ },
+ {
+  "id": 136,
+  "radical": "舛",
+  "strokes": 6,
+  "pinyin": "chuǎn"
+ },
+ {
+  "id": 137,
+  "radical": "舟",
+  "strokes": 6,
+  "pinyin": "zhōu"
+ },
+ {
+  "id": 138,
+  "radical": "艮",
+  "strokes": 6,
+  "pinyin": "gèn"
+ },
+ {
+  "id": 139,
+  "radical": "色",
+  "strokes": 6,
+  "pinyin": "sè"
+ },
+ {
+  "id": 140,
+  "radical": "艸",
+  "strokes": 6,
+  "pinyin": "cǎo"
+ },
+ {
+  "id": 141,
+  "radical": "虍",
+  "strokes": 6,
+  "pinyin": "hū"
+ },
+ {
+  "id": 142,
+  "radical": "虫",
+  "strokes": 6,
+  "pinyin": "chóng"
+ },
+ {
+  "id": 143,
+  "radical": "血",
+  "strokes": 6,
+  "pinyin": "xuè"
+ },
+ {
+  "id": 144,
+  "radical": "行",
+  "strokes": 6,
+  "pinyin": "xíng"
+ },
+ {
+  "id": 145,
+  "radical": "衣",
+  "strokes": 6,
+  "pinyin": "yī"
+ },
+ {
+  "id": 146,
+  "radical": "西",
+  "strokes": 6,
+  "pinyin": "yà"
+ },
+ {
+  "header": 7,
+  "units": "画"
+ },
+ {
+  "id": 147,
+  "radical": "見",
+  "strokes": 7,
+  "pinyin": "jiàn"
+ },
+ {
+  "id": 148,
+  "radical": "角",
+  "strokes": 7,
+  "pinyin": "jiǎo"
+ },
+ {
+  "id": 149,
+  "radical": "言",
+  "strokes": 7,
+  "pinyin": "yán"
+ },
+ {
+  "id": 150,
+  "radical": "谷",
+  "strokes": 7,
+  "pinyin": "gǔ"
+ },
+ {
+  "id": 151,
+  "radical": "豆",
+  "strokes": 7,
+  "pinyin": "dòu"
+ },
+ {
+  "id": 152,
+  "radical": "豕",
+  "strokes": 7,
+  "pinyin": "shǐ"
+ },
+ {
+  "id": 153,
+  "radical": "豸",
+  "strokes": 7,
+  "pinyin": "zhì"
+ },
+ {
+  "id": 154,
+  "radical": "貝",
+  "strokes": 7,
+  "pinyin": "bèi"
+ },
+ {
+  "id": 155,
+  "radical": "赤",
+  "strokes": 7,
+  "pinyin": "chì"
+ },
+ {
+  "id": 156,
+  "radical": "走",
+  "strokes": 7,
+  "pinyin": "zǒu"
+ },
+ {
+  "id": 157,
+  "radical": "足",
+  "strokes": 7,
+  "pinyin": "zú"
+ },
+ {
+  "id": 158,
+  "radical": "身",
+  "strokes": 7,
+  "pinyin": "shēn"
+ },
+ {
+  "id": 159,
+  "radical": "車",
+  "strokes": 7,
+  "pinyin": "chē"
+ },
+ {
+  "id": 160,
+  "radical": "辛",
+  "strokes": 7,
+  "pinyin": "xīn"
+ },
+ {
+  "id": 161,
+  "radical": "辰",
+  "strokes": 7,
+  "pinyin": "chén"
+ },
+ {
+  "id": 162,
+  "radical": "辵",
+  "strokes": 7,
+  "pinyin": "chuò"
+ },
+ {
+  "id": 163,
+  "radical": "邑",
+  "strokes": 7,
+  "pinyin": "yì"
+ },
+ {
+  "id": 164,
+  "radical": "酉",
+  "strokes": 7,
+  "pinyin": "yǒu"
+ },
+ {
+  "id": 165,
+  "radical": "釆",
+  "strokes": 7,
+  "pinyin": "biàn"
+ },
+ {
+  "id": 166,
+  "radical": "里",
+  "strokes": 7,
+  "pinyin": "lǐ"
+ },
+ {
+  "header": 8,
+  "units": "画"
+ },
+ {
+  "id": 167,
+  "radical": "金",
+  "strokes": 8,
+  "pinyin": "jīn"
+ },
+ {
+  "id": 168,
+  "radical": "長",
+  "strokes": 8,
+  "pinyin": "cháng"
+ },
+ {
+  "id": 169,
+  "radical": "門",
+  "strokes": 8,
+  "pinyin": "mén"
+ },
+ {
+  "id": 170,
+  "radical": "阜",
+  "strokes": 8,
+  "pinyin": "fù"
+ },
+ {
+  "id": 171,
+  "radical": "隶",
+  "strokes": 8,
+  "pinyin": "lì"
+ },
+ {
+  "id": 172,
+  "radical": "隹",
+  "strokes": 8,
+  "pinyin": "zhuī"
+ },
+ {
+  "id": 173,
+  "radical": "雨",
+  "strokes": 8,
+  "pinyin": "yǔ"
+ },
+ {
+  "id": 174,
+  "radical": "青",
+  "strokes": 8,
+  "pinyin": "qīng"
+ },
+ {
+  "id": 175,
+  "radical": "非",
+  "strokes": 8,
+  "pinyin": "fēi"
+ },
+ {
+  "header": 9,
+  "units": "画"
+ },
+ {
+  "id": 176,
+  "radical": "面",
+  "strokes": 9,
+  "pinyin": "miàn"
+ },
+ {
+  "id": 177,
+  "radical": "革",
+  "strokes": 9,
+  "pinyin": "gé"
+ },
+ {
+  "id": 178,
+  "radical": "韋",
+  "strokes": 9,
+  "pinyin": "wéi"
+ },
+ {
+  "id": 179,
+  "radical": "韭",
+  "strokes": 9,
+  "pinyin": "jiǔ"
+ },
+ {
+  "id": 180,
+  "radical": "音",
+  "strokes": 9,
+  "pinyin": "yīn"
+ },
+ {
+  "id": 181,
+  "radical": "頁",
+  "strokes": 9,
+  "pinyin": "yè"
+ },
+ {
+  "id": 182,
+  "radical": "風",
+  "strokes": 9,
+  "pinyin": "fēng"
+ },
+ {
+  "id": 183,
+  "radical": "飛",
+  "strokes": 9,
+  "pinyin": "fēi"
+ },
+ {
+  "id": 184,
+  "radical": "食",
+  "strokes": 9,
+  "pinyin": "shí"
+ },
+ {
+  "id": 185,
+  "radical": "首",
+  "strokes": 9,
+  "pinyin": "shǒu"
+ },
+ {
+  "id": 186,
+  "radical": "香",
+  "strokes": 9,
+  "pinyin": "xiāng"
+ },
+ {
+  "header": 10,
+  "units": "画"
+ },
+ {
+  "id": 187,
+  "radical": "馬",
+  "strokes": 10,
+  "pinyin": "mǎ"
+ },
+ {
+  "id": 188,
+  "radical": "骨",
+  "strokes": 10,
+  "pinyin": "gǔ"
+ },
+ {
+  "id": 189,
+  "radical": "高",
+  "strokes": 10,
+  "pinyin": "gāo"
+ },
+ {
+  "id": 190,
+  "radical": "髟",
+  "strokes": 10,
+  "pinyin": "biāo"
+ },
+ {
+  "id": 191,
+  "radical": "鬥",
+  "strokes": 10,
+  "pinyin": "dòu"
+ },
+ {
+  "id": 192,
+  "radical": "鬯",
+  "strokes": 10,
+  "pinyin": "chàng"
+ },
+ {
+  "id": 193,
+  "radical": "鬲",
+  "strokes": 10,
+  "pinyin": "lì"
+ },
+ {
+  "id": 194,
+  "radical": "鬼",
+  "strokes": 10,
+  "pinyin": "guǐ"
+ },
+ {
+  "header": 11,
+  "units": "画"
+ },
+ {
+  "id": 195,
+  "radical": "魚",
+  "strokes": 11,
+  "pinyin": "yú"
+ },
+ {
+  "id": 196,
+  "radical": "鳥",
+  "strokes": 11,
+  "pinyin": "niǎo"
+ },
+ {
+  "id": 197,
+  "radical": "卤",
+  "strokes": 11,
+  "pinyin": "lǔ"
+ },
+ {
+  "id": 198,
+  "radical": "鹿",
+  "strokes": 11,
+  "pinyin": "lù"
+ },
+ {
+  "id": 199,
+  "radical": "麥",
+  "strokes": 11,
+  "pinyin": "mài"
+ },
+ {
+  "id": 200,
+  "radical": "麻",
+  "strokes": 11,
+  "pinyin": "má"
+ },
+ {
+  "header": 12,
+  "units": "画"
+ },
+ {
+  "id": 201,
+  "radical": "黃",
+  "strokes": 12,
+  "pinyin": "huáng"
+ },
+ {
+  "id": 202,
+  "radical": "黍",
+  "strokes": 12,
+  "pinyin": "shǔ"
+ },
+ {
+  "id": 203,
+  "radical": "黑",
+  "strokes": 12,
+  "pinyin": "hēi"
+ },
+ {
+  "id": 204,
+  "radical": "黹",
+  "strokes": 12,
+  "pinyin": "zhǐ"
+ },
+ {
+  "header": 13,
+  "units": "画"
+ },
+ {
+  "id": 205,
+  "radical": "黽",
+  "strokes": 13,
+  "pinyin": "mǐn"
+ },
+ {
+  "id": 206,
+  "radical": "鼎",
+  "strokes": 13,
+  "pinyin": "dǐng"
+ },
+ {
+  "id": 207,
+  "radical": "鼓",
+  "strokes": 13,
+  "pinyin": "gǔ"
+ },
+ {
+  "id": 208,
+  "radical": "鼠",
+  "strokes": 13,
+  "pinyin": "shǔ"
+ },
+ {
+  "header": 14,
+  "units": "画"
+ },
+ {
+  "id": 209,
+  "radical": "鼻",
+  "strokes": 14,
+  "pinyin": "bí"
+ },
+ {
+  "id": 210,
+  "radical": "齊",
+  "strokes": 14,
+  "pinyin": "qí"
+ },
+ {
+  "header": 15,
+  "units": "画"
+ },
+ {
+  "id": 211,
+  "radical": "齒",
+  "strokes": 15,
+  "pinyin": "chǐ"
+ },
+ {
+  "header": 16,
+  "units": "画"
+ },
+ {
+  "id": 212,
+  "radical": "龍",
+  "strokes": 16,
+  "pinyin": "lóng"
+ },
+ {
+  "id": 213,
+  "radical": "龜",
+  "strokes": 16,
+  "pinyin": "guī"
+ },
+ {
+  "header": 17,
+  "units": "画"
+ },
+ {
+  "id": 214,
+  "radical": "龠",
+  "strokes": 17,
+  "pinyin": "yuè"
+ }
+]
